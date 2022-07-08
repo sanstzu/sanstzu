@@ -1,2 +1,2 @@
-A young aspiring engineer
-A CompSci student in Singapore!
+A young aspiring engineer \
+Computer Science student in Singapore \
