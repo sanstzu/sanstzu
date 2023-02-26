@@ -1,2 +1,1 @@
-#### Computer Science Student 2022 - 2026.
-
+#### Freshmen Computer Science Student
