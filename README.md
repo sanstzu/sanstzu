@@ -2,7 +2,7 @@
 - An aspiring software engineer and creator
 - Freshmen Computer Science Student in Nanyang Technological University
 
-### Things I am working on ‍🍳
+### Things I am working/worked on ‍🍳
 - [Personal Website (will be rehauled again)](https://sanstzu.vercel.app)
 - [NTUCal: Imports class schedules into calendar app](https://ntucal.vercel.app)
 
