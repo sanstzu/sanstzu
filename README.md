@@ -1,6 +1,6 @@
 ### Clay here 👋
 - An aspiring software engineer and creator
-- Freshmen Computer Science Student in Nanyang Technological University
+- Sophomore Computer Science Student at Nanyang Technological University
 
 ### Things I am working/worked on ‍🍳
 - [Personal Website (will be rehauled again)](https://sanstzu.vercel.app)
