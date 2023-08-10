@@ -3,7 +3,8 @@
 - Sophomore Computer Science Student at Nanyang Technological University
 
 ### Things I am working/worked on ‍🍳
-- [Personal Website (will be rehauled again)](https://sanstzu.vercel.app)
+- [JAMeS - a Telegram Bot](https://sanstzu.vercel.app/blogs/james-telegram-bot)
+- [Personal Website](https://sanstzu.vercel.app)
 - [NTUCal: Imports class schedules into calendar app](https://ntucal.vercel.app)
 
 #### Frameworks/Languages 🛠️
