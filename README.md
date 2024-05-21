@@ -18,3 +18,8 @@
 - [JAMeS - a Telegram Bot](https://sanstzu.vercel.app/blogs/james-telegram-bot) (August 2023)
 - [Minimalistic Personal Website](https://clayto.me) (July 2023)
 - [NTUCal - Imports class schedules into calendar app](https://ntucal.vercel.app) (March 2023, first project :D)
+
+<details>
+  <summary><h4>random things #1</h4></summary>
+  <img width="500" alt="begging for rust kawaii" src="https://github.com/sanstzu/sanstzu/assets/26087840/888bc09f-9da7-4fdb-a64d-e1126f3e2285">
+</details>
