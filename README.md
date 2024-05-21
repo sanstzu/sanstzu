@@ -8,7 +8,7 @@
 (*excluding [Competitive Programming](https://github.com/sanstzu/competitive-programming)*)
 
 ### Things I am working/worked on ‍🍳
-- [Indonesian Cultural Night (ICN) 2024] (now)
+- Indonesian Cultural Night (ICN) 2024 (upcoming :o)
 - [Kawa 川 - a Livestreaming Server](https://github.com/sanstzu/kawa) (February 2024)
 - [NTUMods - Schedule Planning and Calendar Export for NTU Students](https://ntumods.org) (December 2023)
 - [Indonesian Cultural Night (ICN) 2023 Show Website - deprecated](show.icnmusical.com) (December 2023)
