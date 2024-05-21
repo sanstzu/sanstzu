@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sanstzu)
+
 ### Clay here 👋
 - Software Engineer doing random shits
 - Sophomore Computer Science Student at Nanyang Technological University
