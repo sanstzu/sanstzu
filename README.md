@@ -23,3 +23,6 @@
   <summary><h4>random things #1</h4></summary>
   <img width="500" alt="begging for rust kawaii" src="https://github.com/sanstzu/sanstzu/assets/26087840/888bc09f-9da7-4fdb-a64d-e1126f3e2285">
 </details>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -100; position: fixed; top: 0; left: 0; height: 200vh; object-fit: cover; background-size: contain; width: 100vw; opacity: 0.5; background-repeat: repeat-y; background: url('https://github.com/sanstzu/sanstzu/blob/main/firefly.jpeg?raw=true');]{x0000}$}
