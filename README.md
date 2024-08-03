@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=sanstzu)
 
 ### Clay here 👋
-- Software Engineer doing random shits
-- Sophomore Computer Science Student at Nanyang Technological University
+- Software Engineer doing random shits.
+- Penultimate Computer Science Student at Nanyang Technological University
 - Rust and Go <3
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanstzu&theme=tokyonight&layout=compact&exclude_repo=competitive-programming)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanstzu&theme=tokyonight&layout=compact&exclude_repo=competitive-programming,tiktok-techjam-be)
 
 (*excluding [Competitive Programming](https://github.com/sanstzu/competitive-programming)*, which is full of C++)
 
