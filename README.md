@@ -4,6 +4,7 @@
 - A human doing random shits.
 - Penultimate Computer Science Student at Nanyang Technological University
 - Rust and Go <3
+- Interested in Multimedia, Operating System, Blockchain.
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanstzu&theme=tokyonight&layout=compact&exclude_repo=competitive-programming,tiktok-techjam-be)
 
