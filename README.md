@@ -11,7 +11,7 @@
 (*excluding [Competitive Programming](https://github.com/sanstzu/competitive-programming), which is full of C++*)
 
 ### Things I am working/worked on ‍🍳
-- [Indonesian Cultural Night (ICN) 2025](https:///show.icnmusical.com)
+- [Indonesian Cultural Night (ICN) 2025](https:///show.icnmusical.com) (December 2024)
 - [PINTU Tech CI/CD - devops things](https://pintusingapura.org) (April 2024)
 - [Kawa 川 - a Livestreaming Server](https://github.com/sanstzu/kawa) (February 2024)
 - [NTUMods - Schedule Planning and Calendar Export for NTU Students](https://ntumods.org) (December 2023)
