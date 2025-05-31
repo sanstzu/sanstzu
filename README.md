@@ -1,26 +1,64 @@
 ![](https://komarev.com/ghpvc/?username=sanstzu)
 
-### Clay here 👋
-- A human doing random shits.
-- Penultimate Computer Science Student at Nanyang Technological University
-- Rust and Go <3
-- Interested in Multimedia, Operating System, Blockchain.
+### clay/sans here 👋
+- ex-@SAP, @viki-org, @mulaicoding, @govtech-procurement
+- just a dude who loves random shits (rust, nix, multimedia, blockchain)
+- final year at nanyang technological university
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanstzu&theme=tokyonight&layout=compact&exclude_repo=competitive-programming,tiktok-techjam-be)
 
 (*excluding [Competitive Programming](https://github.com/sanstzu/competitive-programming), which is full of C++*)
 
-### Things I am working/worked on ‍🍳
-- [Indonesian Cultural Night (ICN) 2025](https:///archive-2025.icnmusical.com) (December 2024)
-- [PINTU Tech CI/CD - devops things](https://pintusingapura.org) (April 2024)
-- [Kawa 川 - a Livestreaming Server](https://github.com/sanstzu/kawa) (February 2024)
-- [NTUMods - Schedule Planning and Calendar Export for NTU Students](https://ntumods.org) (December 2023)
-- [Indonesian Cultural Night (ICN) 2024 Show Website](https:///archive-2024.icnmusical.com) (December 2023)
-- [JAMeS - a Telegram Bot](https://sanstzu.vercel.app/blogs/james-telegram-bot) (August 2023)
-- [Minimalistic Personal Website](https://clayto.me) (July 2023)
-- [NTUCal - Imports class schedules into calendar app](https://ntucal.vercel.app) (March 2023, first project :D)
+<details> 
+  <summary><h4>things i have worked on before</h4></summary>
+  <ul>
+    <li>
+      <a href="https://archive-2025.icnmusical.com" target="_blank" rel="noopener noreferrer">
+        Indonesian Cultural Night (ICN) 2025
+      </a> (December 2024)
+      <br />
+      <subtitle><i>Plus leading 10 student engineers/designers to create artistic landing page + robust ticketing system</i></subtitle>
+    </li>
+    <li>
+      <a href="https://github.com/sanstzu/kawa" target="_blank" rel="noopener noreferrer">
+        Kawa 川 - a Livestreaming Server
+      </a> (February 2024)
+    </li>
+    <li>
+      <a href="https://ntumods.org" target="_blank" rel="noopener noreferrer">
+        NTUMods - Schedule Planning and Calendar Export for NTU Students
+      </a> (December 2023)
+    </li>
+    <li>
+      <a href="https:///archive-2024.icnmusical.com" target="_blank" rel="noopener noreferrer">
+        Indonesian Cultural Night (ICN) 2024 Show Website
+      </a> (December 2023)
+    </li>
+  </ul>
+</details>
 
-<details>
-  <summary><h4>random things #1</h4></summary>
-  <img width="500" alt="begging for rust kawaii" src="https://github.com/sanstzu/sanstzu/assets/26087840/888bc09f-9da7-4fdb-a64d-e1126f3e2285">
+<details> 
+  <summary><h4>other things</h4></summary>
+  <ul>
+    <li>
+      <a href="https://pintusingapura.org" target="_blank" rel="noopener noreferrer">
+        PINTU Tech CI/CD - devops things
+      </a> (April 2024)
+    </li>
+    <li>
+      <a href="https://sanstzu.vercel.app/blogs/james-telegram-bot" target="_blank" rel="noopener noreferrer">
+        JAMeS - a Telegram Bot
+      </a> (August 2023)
+    </li>
+    <li>
+      <a href="https://clayto.me" target="_blank" rel="noopener noreferrer">
+        Minimalistic Personal Website
+      </a> (July 2023)
+    </li>
+    <li>
+      <a href="https://ntucal.vercel.app" target="_blank" rel="noopener noreferrer">
+        NTUCal - Imports class schedules into calendar app
+      </a> (March 2023, first project :D)
+    </li>
+  </ul>
 </details>
