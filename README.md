@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=sanstzu)
 
 ### clay/sans here 👋
-- ex-@SAP, @viki-org, @mulaicoding, @govtech-procurement
+- ex-[@SAP](https://github.com/SAP), [@viki-org](https://github.com/viki-org), [@mulaicoding](https://github.com/mulaicoding), [@govtech-procurement](https://github.com/govtech-procurement)
 - just a dude who loves random shits (rust, nix, multimedia, blockchain)
+- fullstack?
 - final year at nanyang technological university
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanstzu&theme=tokyonight&layout=compact&exclude_repo=competitive-programming,tiktok-techjam-be)
