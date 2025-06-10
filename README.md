@@ -2,7 +2,7 @@
 
 ### clay/sans here 👋
 - ex-[@SAP](https://github.com/SAP), [@viki-org](https://github.com/viki-org), [@mulaicoding](https://github.com/mulaicoding), [@govtech-procurement](https://github.com/govtech-procurement)
-- just a dude who loves random shits (rust, nix, multimedia, blockchain)
+- random stuffs (rust, nix, multimedia, blockchain)
 - fullstack?
 - final year at nanyang technological university
 
